@@ -1,0 +1,1 @@
+# PlanogramVisionAgent_MCP
