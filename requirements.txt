@@ -1,0 +1,15 @@
+streamlit
+openai
+opencv-python
+Pillow
+fastapi
+python-dotenv
+requests
+numpy
+pandas
+scikit-learn
+textblob
+python-dateutil
+asyncio
+tiktoken
+aiofiles
